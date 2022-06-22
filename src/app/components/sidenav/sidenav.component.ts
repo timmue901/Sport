@@ -1,6 +1,5 @@
 import { MediaMatcher } from '@angular/cdk/layout';
 import { ChangeDetectorRef, Component, OnDestroy } from '@angular/core';
-import { MatSidenavModule } from '@angular/material/sidenav';
 
 /** @title Responsive sidenav */
 @Component({
